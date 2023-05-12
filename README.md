@@ -1,5 +1,5 @@
 # my-resume-page
-This is a example repo using Python Flask to have a resume page deployed with Render.
+This is a repo using Python Flask to have a resume page deployed with Render.
 
 ## description
 - Step 1: We are going to create some python code here
